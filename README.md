@@ -4,10 +4,10 @@
 
 ### Installation : 
 
-        git clone https://github.com/Anonymous-1901/mac-changer
-        sudo pip install randmac && pip install randmac
-        cd mac-changer/
-        sudo python3 mac-changer.py
+    git clone https://github.com/Anonymous-1901/mac-changer
+    sudo pip install randmac && pip install randmac
+    cd mac-changer/
+    sudo python3 mac-changer.py
         
 - That's it ! 
 
