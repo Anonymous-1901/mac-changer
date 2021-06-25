@@ -7,10 +7,7 @@
         git clone https://github.com/Anonymous-1901/mac-changer
         sudo pip install randmac && pip install randmac
         cd mac-changer/
-        python3 mac-changer.py
+        sudo python3 mac-changer.py
         
 - That's it ! 
 
-### Usage : 
-
-- Just run python3 mac-changer.py !
